@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hello Everybody 👋
+a student at Batam State Polytechnic interested in Web Development, Web Design and Data Analyst. I have experience in JavaScrpit, Figma, CSS and am actively working on Project-Based Learning (PBL) projects.
 
-<!--
-**MSA-X/MSA-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Education
+
+### SMA/SMK Sekolah Harapan Utama
+- **Jurusan**: Teknik Komputer dan jaringan
+- **Tahun Masuk**: 2021
+- **Tahun Lulus**: 2024
+
+## 📌 Riwayat Pengerjaan Proyek
+
+### 1. Patuh Bayar
+- **Deskripsi**: Pengelolaan tagihan/iuran di perumahan
+- **Teknologi yang Digunakan**: HTML, CSS, JavaScript, Laravel
+
+### 2. Itrans Carbon Calculator
+- **Deskripsi**: Kalkulato Emisi Karbon
+- **Teknologi yang Digunakan**: CSS, Node.js, MySQL, JavaScript, Laravel
+
+
+
+## 🛠 Skillset 
+
+### 📌 Programming Languages
+- Python
+- JavaScript
+- CSS
+
+### 🔧 Tools & Technologies
+- Git & GitHub
+- Laragon
+- Visual Studio Code
+
+### 💡 Soft Skills
+- Komunikasi
+- Problem Solving
+- Time Management
+
+
+
