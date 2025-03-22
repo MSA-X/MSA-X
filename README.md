@@ -43,5 +43,3 @@ My Name is Muhammad Syifa, A student at Politeknik Negeri Batam interested in We
 
 - [LinkedIn](https://www.linkedin.com/in/muhammad-syifa-abdurrasyid-450738330 )
 - [GitHub](https://github.com/MSA-X)
-- [Portofolio](https://username.github.io/)
-
