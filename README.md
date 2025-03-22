@@ -1,10 +1,9 @@
 ## Hello Everybody 👋
-a student at Batam State Polytechnic interested in Web Development, Web Design and Data Analyst. I have experience in JavaScrpit, Figma, CSS and am actively working on Project-Based Learning (PBL) projects.
+My Name is Muhammad Syifa, A student at Politeknik Negeri Batam interested in Web Development, Web Design and Data Analyst. I have experience in JavaScrpit, Figma, CSS and am actively working on Project-Based Learning (PBL) projects.
 
 
 
-##Education
-
+## Riwayat Pendidikan 🎓
 ### SMA/SMK Sekolah Harapan Utama
 - **Jurusan**: Teknik Komputer dan jaringan
 - **Tahun Masuk**: 2021
