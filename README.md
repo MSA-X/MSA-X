@@ -40,4 +40,9 @@ a student at Batam State Polytechnic interested in Web Development, Web Design a
 - Time Management
 
 
+## 🔗 Sosial Media
+
+- [LinkedIn](https://www.linkedin.com/in/muhammad-syifa-abdurrasyid-450738330 )
+- [GitHub](https://github.com/MSA-X)
+- [Portofolio](https://username.github.io/)
 
